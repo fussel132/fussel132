@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 
-<!--
-**fussel132/fussel132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fussel132&count_private=true&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fussel132&layout=compact&theme=github_dark&hide_border=true"  /> 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Popular Repositories
+
+<p align="left">
+  <a href="https://github.com/fussel132/weblogger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fussel132&repo=weblogger&theme=github_dark&hide_border=true"/></a>
+  <a href="https://github.com/fussel132/hue-controller"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fussel132&repo=hue-controller&theme=github_dark&hide_border=true"/></a>
+</p>
